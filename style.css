@@ -1,0 +1,47 @@
+
+
+
+
+.btn1{
+    background: linear-gradient(to right, transparent 50%, #94803d 50%);
+    background-size: 200%;
+    background-position: right;
+    transition: background-position 2s;
+    border: 2px solid #009688;
+    
+    
+}
+
+.btn1:hover{
+    background-position: left;
+}
+
+
+h4{
+    font-size: 24px;
+    font-style: oblique;
+    color: crimson;
+    font-weight: bold;
+}
+
+.design{
+    background: linear-gradient(rgba(0,0,0,0.5),#009688),
+
+}
+
+.fp{
+    color: rgb(16, 74, 97);
+    font-style: inherit;
+    font-size: 6;
+    flex-wrap: wrap;
+    
+}
+
+
+.pmem{
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bold;
+    color: rgb(32, 150, 114);
+
+}
